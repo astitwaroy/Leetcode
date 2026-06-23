@@ -1,5 +1,4 @@
-# Leetcode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+ All of my Leetcode submissions here
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
