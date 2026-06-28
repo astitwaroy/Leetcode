@@ -15,6 +15,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/astitwaroy/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/astitwaroy/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/astitwaroy/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/astitwaroy/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/astitwaroy/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/astitwaroy/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/astitwaroy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/astitwaroy/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
