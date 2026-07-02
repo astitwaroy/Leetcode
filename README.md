@@ -17,6 +17,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/astitwaroy/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/astitwaroy/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/astitwaroy/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/astitwaroy/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/astitwaroy/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/astitwaroy/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/astitwaroy/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +80,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/astitwaroy/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/astitwaroy/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/astitwaroy/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/astitwaroy/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/astitwaroy/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
