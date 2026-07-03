@@ -45,6 +45,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/astitwaroy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/astitwaroy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/astitwaroy/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Greedy
@@ -65,6 +66,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/astitwaroy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/astitwaroy/Leetcode/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -73,6 +75,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/astitwaroy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/astitwaroy/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/astitwaroy/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Hash Table
