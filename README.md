@@ -71,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/astitwaroy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/astitwaroy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/astitwaroy/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/astitwaroy/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Prefix Sum
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/astitwaroy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/astitwaroy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/astitwaroy/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/astitwaroy/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/astitwaroy/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -198,4 +200,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/astitwaroy/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/astitwaroy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/astitwaroy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
