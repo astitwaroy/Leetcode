@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/astitwaroy/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0039-combination-sum](https://github.com/astitwaroy/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/astitwaroy/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/astitwaroy/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0162-find-peak-element](https://github.com/astitwaroy/Leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -91,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/astitwaroy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/astitwaroy/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/astitwaroy/Leetcode/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
