@@ -14,6 +14,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/astitwaroy/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/astitwaroy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/astitwaroy/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1260-shift-2d-grid](https://github.com/astitwaroy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/astitwaroy/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/astitwaroy/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/astitwaroy/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -87,6 +88,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/astitwaroy/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/astitwaroy/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1260-shift-2d-grid](https://github.com/astitwaroy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/astitwaroy/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/astitwaroy/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Backtracking
@@ -195,6 +197,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/astitwaroy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/astitwaroy/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
