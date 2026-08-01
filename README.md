@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/astitwaroy/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/astitwaroy/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/astitwaroy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0486-predict-the-winner](https://github.com/astitwaroy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/astitwaroy/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1260-shift-2d-grid](https://github.com/astitwaroy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/astitwaroy/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/astitwaroy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/astitwaroy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0486-predict-the-winner](https://github.com/astitwaroy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/astitwaroy/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/astitwaroy/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/astitwaroy/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -173,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/astitwaroy/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0486-predict-the-winner](https://github.com/astitwaroy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/astitwaroy/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/astitwaroy/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/astitwaroy/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -189,6 +192,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/astitwaroy/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0486-predict-the-winner](https://github.com/astitwaroy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +259,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/astitwaroy/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/astitwaroy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
